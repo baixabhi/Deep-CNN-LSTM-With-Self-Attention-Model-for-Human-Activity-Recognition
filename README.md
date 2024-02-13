@@ -1,0 +1,1 @@
+# Deep-CNN-LSTM-With-Self-Attention-Model-for-Human-Activity-Recognition
